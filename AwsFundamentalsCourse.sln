@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConsumer", "SqlConsumer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customers.Api", "Customers.Api\Customers.Api.csproj", "{820356BE-7088-4442-8E62-CD4EF3BCCD5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customers.Consumers", "Customers.Consumers\Customers.Consumers.csproj", "{40A9BCDA-1859-41ED-A9AB-4F96CCFA3332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,7 @@ Global
 		{03998B9C-AB15-4434-9EE2-F1EC6C42132E} = {5327B91E-2E9A-48D0-84F4-5B5C6A28BD8F}
 		{0C796450-125E-4ECC-85EA-B2E59FAE6199} = {5327B91E-2E9A-48D0-84F4-5B5C6A28BD8F}
 		{820356BE-7088-4442-8E62-CD4EF3BCCD5B} = {5327B91E-2E9A-48D0-84F4-5B5C6A28BD8F}
+		{40A9BCDA-1859-41ED-A9AB-4F96CCFA3332} = {5327B91E-2E9A-48D0-84F4-5B5C6A28BD8F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{03998B9C-AB15-4434-9EE2-F1EC6C42132E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -41,5 +44,9 @@ Global
 		{820356BE-7088-4442-8E62-CD4EF3BCCD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820356BE-7088-4442-8E62-CD4EF3BCCD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820356BE-7088-4442-8E62-CD4EF3BCCD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A9BCDA-1859-41ED-A9AB-4F96CCFA3332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A9BCDA-1859-41ED-A9AB-4F96CCFA3332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A9BCDA-1859-41ED-A9AB-4F96CCFA3332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A9BCDA-1859-41ED-A9AB-4F96CCFA3332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

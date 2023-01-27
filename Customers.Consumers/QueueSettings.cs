@@ -1,4 +1,4 @@
-﻿namespace Customers.Api.Messaging;
+﻿namespace Customers.Consumers;
 
 public class QueueSettings
 {
